@@ -23,11 +23,11 @@ At the core of the project is an EfficientNet-B0 model loaded through the `timm`
 
 The project uses a facial expression recognition dataset originally referenced from Kaggle:
 
-`https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset`
+https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
 
 Inside the notebook, the data is loaded by cloning a prepared dataset repository:
 
-`https://github.com/parth1620/Facial-Expression-Dataset.git`
+https://github.com/parth1620/Facial-Expression-Dataset.
 
 The dataset is organized into training and validation directories and loaded with `torchvision.datasets.ImageFolder`, which infers class labels from folder names. The notebook uses the following dataset paths:
 
