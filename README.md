@@ -183,7 +183,7 @@ Checkpointing is based on validation loss rather than training loss. This ensure
 
 ## Results
 
-The model is trained for 15 epochs. The best validation checkpoint is saved whenever validation loss improves. The strongest validation loss observed in the notebook occurs at epoch 14:
+The model is trained for 15 epochs. The best validation checkpoint is saved whenever validation loss improves. The lowest validation loss observed in the notebook occurs at epoch 14:
 
 | Epoch | Training Loss | Training Accuracy | Validation Loss | Validation Accuracy | Checkpoint Saved |
 | ---: | ---: | ---: | ---: | ---: | --- |
