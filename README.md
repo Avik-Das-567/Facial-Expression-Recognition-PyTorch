@@ -1,6 +1,6 @@
 # Facial Expression Recognition with EfficientNet-B0 and PyTorch
 
-## Project Overview
+## Overview
 
 This project builds a deep learning pipeline for classifying human facial expressions from face images using PyTorch. The notebook trains a transfer-learning image classifier on a facial expression dataset containing 48 x 48 pixel face images distributed across seven emotion categories: `angry`, `disgust`, `fear`, `happy`, `neutral`, `sad`, and `surprise`.
 
